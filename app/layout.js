@@ -9,7 +9,7 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Arun Khatri",
+  title: "hungri learner errunlee",
   description:
     "Welcome to my portfolio! I'm Arun Khatri, a passionate full-stack developer who loves to learn and explore new technologies. I'm always open to collaborating and taking on new challenges. Let's build something amazing together!",
 };
