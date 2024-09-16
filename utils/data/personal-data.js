@@ -1,15 +1,14 @@
 export const personalData = {
-  name: "KAILASH DHUNGANA",
+  name: "Arun Khatri",
   profile: "/profile.png",
   designation: "React Developer",
   description:
-    "As Kailash Dhungana, I'm deeply passionate about crafting exceptional experiences with React. Thriving on the dynamic nature of web development, I constantly seek innovative solutions. With a strong JavaScript foundation, I embrace challenges with a self-learning attitude, always eager to explore the latest technologies. My enthusiasm for problem-solving drives me to create more accessible and engaging web experiences. I eagerly seek opportunities to leverage my React expertise for meaningful digital impact.",
-  email: "dhunganak1920@gmail.com",
+    "As a passionate React developer, I'm always on the lookout for innovative solutions to create exceptional web experiences. With a strong foundation in JavaScript, I enjoy taking on new challenges and learning from them. I'm excited to use my skills to make a positive impact in the digital world and help others do the same. If you have a project that needs a dedicated React developer, let's chat!",
+  email: "akcs44444@gmail.com",
   phone: "+977 9813206341",
-  address: "kathmandu, Nepal ",
-  github: "https://github.com/kailash-codes",
-  facebook: "https://www.facebook.com/kingkd.me/",
-  linkedIn: "https://www.linkedin.com/in/kailash-dhungana/",
-  resume:
-    "https://drive.google.com/file/d/1-kEP3EE90mWTD-R-ky1fXIByrETva95V/view?usp=drive_link",
+  address: "Kathmandu, Nepal",
+  github: "https://github.com/errunlee",
+  facebook: "https://www.facebook.com/khatriiarun/",
+  linkedIn: "https://www.linkedin.com/in/arunkhatrii/",
+  resume: "https://flowcv.com/resume/dclw82n8qn",
 };
